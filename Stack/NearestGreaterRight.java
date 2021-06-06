@@ -7,6 +7,8 @@ public class NearestGreaterRight {
     public static void main(String[] args) {
 
         Stack<Integer> stack = new Stack<>();
+        //as we are traversing from right the result is stored in reverse order sostack is used
+        
         Stack<Integer> res = new Stack<>();
 
         Scanner sc = new Scanner(System.in);
