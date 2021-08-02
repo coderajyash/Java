@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb7a5f7-7b18-440b-b95c-0837c250c5e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intelli.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstandLastOccurace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FloorElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NearlySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NextAlpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotatedCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KadaneAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KadaneAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxBitonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +31,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MinDifference">
+  <component name="RunManager" selected="Application.MaxBitonic">
     <configuration name="FloorElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FloorElement" />
+      <module name="Intelli" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxBitonic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxBitonic" />
       <module name="Intelli" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,13 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearlySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NearlySorted" />
-      <module name="Intelli" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NextAlpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NextAlpha" />
       <module name="Intelli" />
@@ -70,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotatedCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotatedCount" />
+    <configuration name="PeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PeakElement" />
       <module name="Intelli" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxBitonic" />
+        <item itemvalue="Application.PeakElement" />
         <item itemvalue="Application.MinDifference" />
         <item itemvalue="Application.NextAlpha" />
         <item itemvalue="Application.FloorElement" />
-        <item itemvalue="Application.NearlySorted" />
-        <item itemvalue="Application.RotatedCount" />
       </list>
     </recent_temporary>
   </component>
