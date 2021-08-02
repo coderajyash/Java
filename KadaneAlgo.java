@@ -19,9 +19,7 @@ public class KadaneAlgo {
                 if(s > max){
                     max = s;
                 }
-                if(
-                    s <0
-                ){
+                if(s<0){
                     s=0; // Discard Subarray with negative Sum
                 }
 
