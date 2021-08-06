@@ -4,15 +4,14 @@ import java.util.Scanner;
 //Bitonic means [1,3,8,'12',4,2]
 //Inreasing till 12 then decreasing
 
-
-
 public class MaxBitonic {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] a= new int[n];
         int i=0;
-         while(i<n){
+        while(i<n){
              a[i]=sc.nextInt();
              i++;
 
