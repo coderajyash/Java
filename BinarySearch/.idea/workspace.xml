@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb7a5f7-7b18-440b-b95c-0837c250c5e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MatrixSortedSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumPages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intelli/MaxBitonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intelli/MaxBitonic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxBitonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxBitonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kthlargest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +30,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MatrixSortedSearch">
+  <component name="RunManager" selected="Application.MinimumPages">
     <configuration name="MatrixSortedSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrixSortedSearch" />
       <module name="Intelli" />
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinDifference" />
+    <configuration name="MinimumPages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumPages" />
       <module name="Intelli" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumPages" />
         <item itemvalue="Application.MatrixSortedSearch" />
         <item itemvalue="Application.MaxBitonic" />
         <item itemvalue="Application.PeakElement" />
         <item itemvalue="Application.NextAlpha" />
-        <item itemvalue="Application.MinDifference" />
       </list>
     </recent_temporary>
   </component>
